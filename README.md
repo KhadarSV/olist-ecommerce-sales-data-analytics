@@ -13,7 +13,7 @@ This project analyzes sales data from Olist, a Brazilian e-commerce platform, us
 ## Tools & Technologies
 - **Python**: Data cleaning, EDA, clustering, sentiment analysis
 - **Excel**: Correlation analysis and data processing
-- **Weka**: Sales forecasting with ML models (MLP, Random Forest, KNN, Stacking)
+- **Weka**: ML models 
 - **Power BI**: Interactive dashboard for business performance visualization
 
 ## Key Findings
