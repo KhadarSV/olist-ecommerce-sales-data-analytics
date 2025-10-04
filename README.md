@@ -30,11 +30,5 @@ This project analyzes sales data from Olist, a Brazilian e-commerce platform, us
 
 **Note**: The dataset and Power BI files are large in size. To view them properly, please download or click on "View Raw" when accessing these files.
 
-## Usage
-1. Clone the repository
-2. Open the Power BI dashboard to explore business metrics
-3. Refer to the Python notebooks for analytical methodologies
-4. Review the PDF report for comprehensive insights
-
 ## Conclusion
 This project demonstrates how business intelligence techniques can transform raw e-commerce data into strategic insights, enabling better decision-making for sales optimization, customer satisfaction improvement, and logistical planning.
